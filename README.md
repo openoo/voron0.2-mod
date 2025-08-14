@@ -73,4 +73,14 @@
 
 ---
 
+## 7. V0.2 Z Extrusion End Cap with Y Endstop Mount
+**中文翻译：V0.2 Z轴型材端盖带Y限位安装座**
+- 说明：为 Voron 0.2 打印机设计的 Z 轴型材端盖，集成 Y 限位开关安装座，提升限位安装便利性。
+- 图片：<br>
+  <img src="V0.2%20Z%20Extrusion%20End%20Cap%20with%20Y%20Endstop%20Mount/f022e132-e3bd-4be2-b8d5-389d40eb04a1.webp" width="300" />  
+  <img src="V0.2%20Z%20Extrusion%20End%20Cap%20with%20Y%20Endstop%20Mount/pxl_20230330_190605091.webp" width="300" />  
+- 来源地址：[https://www.printables.com/model/437772-v02-z-extrusion-end-cap-with-y-endstop-mount/files](https://www.printables.com/model/437772-v02-z-extrusion-end-cap-with-y-endstop-mount/files)
+
+---
+
 如需了解更多详情，请查阅各模组文件夹内的说明及开源地址。
